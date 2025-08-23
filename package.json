@@ -1,0 +1,30 @@
+{
+	"name": "@grinwiz/utils",
+	"version": "1.0.0",
+	"main": "lib/index.js",
+	"keywords": [
+		"utils",
+		"helpers",
+		"node-js",
+		"string",
+		"datetime",
+		"conditionals",
+		"throw-if"
+	],
+	"author": "SUJWN",
+	"license": "MIT",
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/grinwiz/utils.git"
+	},
+	"bugs": {
+		"url": "https://github.com/grinwiz/utils/issues"
+	},
+	"homepage": "https://github.com/grinwiz/utils#readme",
+	"dependencies": {
+		"es6-error": "^4.1.1",
+		"moment": "^2.30.1",
+		"moment-timezone": "^0.6.0"
+	}
+}
